@@ -1,0 +1,5 @@
+employee_id,first_name,last_name,position,start_date,department
+1001,Ana,Jovanović,Data Analyst,2020-01-15,Analytics
+1002,Marko,Petrović,Backend Dev,2019-07-01,Engineering
+1003,Ivana,Nikolić,HR Manager,2021-03-10,HR
+1004,Luka,Simić,Finance Lead,2018-11-20,Finance
