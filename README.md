@@ -1,5 +1,5 @@
 ### Run
-- The pipeline can be run with command `run_pipeline.py`, 
+- the pipeline can be run with command `run_pipeline.py`, 
   also, you can pass parameters as `run_pipeline.py -parameter1 val1 -parameter2 val2`, 
   such as save paths, verbose or plot and all of them are described in 
   `run_pipeline.py` in parse_opt(). You don't have to pass any of them
@@ -11,4 +11,5 @@
   `bronze`, `silver`, `gold`
 - `images_reports` is place for storing plots from the gold part, it will
   save plots only if you pass paramter `-plot True`
+- in `config.py` are global paramters
 
